@@ -49,6 +49,11 @@ As a software engineering student and developer, I wanted to build a project tha
 
 ---
 
+## Preview
+
+![Neural OS Preview 1](./public/neural-os-1.jpg)
+![Neural OS Preview 2](./public/neural-os-2.jpg)
+
 ## Problem Statement
 
 Traditional note-taking apps have a critical flaw: **finding your notes later is painful**.
