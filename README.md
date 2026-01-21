@@ -51,8 +51,8 @@ As a software engineering student and developer, I wanted to build a project tha
 
 ## Preview
 
-![Neural OS Preview 1](frontend/public/neural-os-1.jpg)
-![Neural OS Preview 2](frontend/public/neural-os-2.jpg)
+![Neural OS Preview 1](assets/neural-os-1.jpg)
+![Neural OS Preview 2](assets/neural-os-2.jpg)
 
 ## Problem Statement
 
