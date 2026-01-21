@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(curl:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\nfeat: Add complete NeuralOS smart notes application\n\n- Full notes CRUD with title, content, and tags\n- AI-powered semantic search using GPT-4o-mini\n- Dashboard with stats \\(notes, searches, insights, streak\\)\n- Collections: Favorites, Archive, Trash with restore\n- Dark/Light mode toggle\n- Keyboard shortcuts \\(Cmd+K\\)\n- Supabase auth integration\n- Responsive design with modern UI\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(git add:*)"
-    ]
-  }
-}
