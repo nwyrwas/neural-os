@@ -2,7 +2,6 @@
 
 An AI-powered notes application that understands the meaning behind your notes, not just keywords. Search and recall your thoughts using natural language, powered by semantic search and GPT-4.
 
-🔗 **Live Demo**: Coming Soon
 📂 **GitHub**: [github.com/nwyrwas/neural-os](https://github.com/nwyrwas/neural-os)
 
 ---
